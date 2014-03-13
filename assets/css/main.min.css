@@ -1718,10 +1718,12 @@ body {
 .article-author-side h3, .article-author-side p, .article-author-side .author-social {
     display: block;
     max-width: 125px;
+    text-align: center;
 }
 .article-author-side h3 {
     margin-top: 10px;
     margin-bottom: 10px;
+    font-size: 18px;
 }
 .article-author-side p {
     margin-bottom: 20px;

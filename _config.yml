@@ -7,7 +7,7 @@ url:              http://localhost:4000
 owner:
   name:           Hanns Holger Rutz
   avatar:         bio-photo.jpg
-  bio:            "Describe your self."
+  bio:            ""
   email:          contact@sciss.de
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:        
