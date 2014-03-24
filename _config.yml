@@ -1,8 +1,8 @@
 title:            Forecast
 description:      Blog about a climate data based sound installation.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-# url:              http://localhost:4000
-url: http://iem-projects.github.io/forecast/
+url:              http://localhost:4000
+# url: http://iem-projects.github.io/forecast/
 
 # Owner/author information
 owner:
