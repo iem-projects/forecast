@@ -77,6 +77,7 @@ svg:not(:root) {
 }
 figure {
     margin: 0;
+    padding-bottom: 1.0em;
 }
 fieldset {
     padding: .35em .625em .75em;
