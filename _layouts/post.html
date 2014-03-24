@@ -19,6 +19,7 @@
 </div><!-- /.image-wrap -->{% endif %}
 
 <div id="main" role="main">
+  {% assign author = site.authors[page.author] %}
   <div class="article-author-side">
     {% include _author-bio.html %}
   </div>
@@ -33,13 +34,13 @@
         <div class="article-author-bottom">
           {% include _author-bio.html %}
         </div>
-        <p class="byline"><strong>{{ page.title }}</strong> was published on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>{% if page.modified %} and last modified on <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time>{% endif %} by <a href="{{ site.url }}/about" title="About {{ site.owner.name }}">{{ site.owner.name }}</a>.</p>
+        <p class="byline">Written by <!--<a href="{{ site.url }}/about/{{ page.author }}" title="About {{ author.name }}">-->{{ author.name }}<!--</a>--> on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>{% if page.modified %} and last modified on <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time>{% endif %}.</p>
       </footer>
     </div><!-- /.article-wrap -->
   </article>
 </div><!-- /#main -->
 
-<div class="footer-wrap">
+<div class="footer-wrap"><!--
   <div class="related-articles">
   <h4>You might also enjoy <small class="pull-right">(<a href="{{ site.url }}/posts/">View all posts</a>)</small></h4>
     <ul>
@@ -48,7 +49,7 @@
     {% endfor %}
     </ul>
     <hr />
-  </div><!-- /.related-articles -->
+  </div> --><!-- /.related-articles -->
   <footer>
     {% include _footer.html %}
   </footer>

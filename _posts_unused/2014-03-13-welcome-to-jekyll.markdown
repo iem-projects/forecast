@@ -2,6 +2,7 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2014-03-13 20:12:35
+author: foobar
 categories: jekyll update
 ---
 

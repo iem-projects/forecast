@@ -1,8 +1,8 @@
 title:            Forecast
 description:      Blog about a climate data based sound installation.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
-# url: http://iem-projects.github.io/forecast/
+# url:              http://localhost:4000
+url: http://iem-projects.github.io/forecast/
 
 # Owner/author information
 owner:
@@ -26,6 +26,21 @@ owner:
   # For Google Authorship https://plus.google.com/authorship
   google_plus:
 
+# cf. https://gist.github.com/ravasthi/1834570
+authors:
+  sciss:
+    name:    Hanns Holger Rutz
+    avatar:  bio-sciss-photo.jpg
+    bio:     ""
+    email:   contact@sciss.de
+  foobar:
+    name:    Foo Bar
+    avatar:  bio-foobar-photo.jpg
+    email:   foo@bar.baz
+  none:
+    name:    ""
+    avatar:  bio-none-photo.jpg
+
 # Analytics and webmaster tools stuff goes here
 google_analytics:   
 google_verify:      
@@ -39,8 +54,8 @@ links:
     url: /about/
   - title: Posts
     url: /posts/
-  - title: Theme Setup
-    url: /theme-setup/
+#  - title: Theme Setup
+#    url: /theme-setup/
   - title: SysSon
     url: http://sysson.kug.ac.at/
     external: true
