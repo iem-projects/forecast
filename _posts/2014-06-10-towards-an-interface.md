@@ -13,8 +13,6 @@ comments:
 share: 
 ---
 
-## The Prosposals
-
 On May 15, proposals for the visual design were presented by the students from Adriart. Three groups had been formed, each of which presented one approach.
 
 ### The Cloud
