@@ -25,9 +25,9 @@ Was there an "aim" you wanted to achieve?
 Was there a "starting point" to this work?
 -->
 
-A good number of paragraphs that may elucidate questions surrounding "intention" and "inspiration" may be found in the essay I wrote for the brochure that we produced to accompany the exhibition: {% extlink "Particularities and Generalities" https://www.academia.edu/9444622/Particularities_and_Generalities._Considerations_on_the_Sound_Composition %}.
+A good number of paragraphs that may elucidate questions surrounding "intention" and "inspiration" may be found in the essay I wrote for the brochure that we produced to accompany the exhibition: ["Particularities and Generalities"](https://www.academia.edu/9444622/Particularities_and_Generalities._Considerations_on_the_Sound_Composition).
 
-I will first start with some thoughts about my sound works in general, before then defining the particularities of this installation. To save myself work, I will put a few quotes from my {% extlink PhD thesis http://pearl.plymouth.ac.uk:8080/pearl_xmlui/handle/10026.1/3116 %}:
+I will first start with some thoughts about my sound works in general, before then defining the particularities of this installation. To save myself work, I will put a few quotes from my [PhD thesis](http://pearl.plymouth.ac.uk:8080/pearl_xmlui/handle/10026.1/3116):
 
 > [...] we find ourselves in a permanent struggle with the technology. We may have a certain
 idea of what we are trying to achieve when using it, but it will always introduce a shift in what
