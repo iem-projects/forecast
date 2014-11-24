@@ -10,4 +10,6 @@ image:
   feature: texture-feature-01.jpg
 ---
 
-(TODO)
+This blogs documents some thoughts developed during the SysSon/ADRIART cooperation that resulted in the sound installation 
+exhibition "Turbulence" at Forum Stadtpark, Graz, Austria, in November 2014. "Forecast" was the working title until we
+decided on the final exhibition title "Turbulence".
