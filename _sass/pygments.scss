@@ -1,10 +1,10 @@
 .highlight {
 	background-color: #efefef;
-	font-family: @code-font;
-	.font(12);
+	font-family: $code-font;
+	@include font(12);
 	color: #333332;
 	margin-bottom: 1.5em;
-	.rounded(4px);
+	@include rounded(4px);
 	pre {
 		position: relative;
 		margin: 0;

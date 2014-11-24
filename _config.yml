@@ -26,39 +26,11 @@ owner:
   # For Google Authorship https://plus.google.com/authorship
   google_plus:
 
-# cf. https://gist.github.com/ravasthi/1834570
-authors:
-  sciss:
-    name:    Hanns Holger Rutz
-    avatar:  bio-sciss-photo.jpg
-    bio:     ""
-    email:   contact@sciss.de
-  foobar:
-    name:    Foo Bar
-    avatar:  bio-foobar-photo.jpg
-    email:   foo@bar.baz
-  none:
-    name:    ""
-    avatar:  bio-none-photo.jpg
-
 # Analytics and webmaster tools stuff goes here
 google_analytics:   
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:        
-
-# Links to include in top navigation
-# For external links add external: true
-links:
-  - title: About
-    url: /about/
-  - title: Posts
-    url: /posts/
-#  - title: Theme Setup
-#    url: /theme-setup/
-  - title: SysSon
-    url: http://sysson.kug.ac.at/
-    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Vienna
@@ -84,4 +56,4 @@ kramdown:
     coderay_css: class
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
