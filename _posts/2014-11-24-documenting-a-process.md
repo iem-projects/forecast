@@ -121,9 +121,15 @@ also purely in acoustical terms, and even further in terms of their focus of att
 by the light and space). I wish for people to connect to thoughts and fragments in their memory that they had
 forgotten about, to bring some to the surface and allow them to be transformed by the installation.
 
+Furthermore, I have long imagined that there must be some way in which a spatially extended sound environment
+could provide for a particular form of co-presence, i.e. for the possibility to perceptually or mentally
+decompose a complex object and be able to understand its components as present with each other, but individually
+distinguishable, reproducing some form of spatial extension or texture in the mind. I imagined that the
+sonification of a multi-channel data set would be an appropriate material to develop such a texture.
+
 ### Actuality
 
-
+(to-do)
 
 ## Development
 
