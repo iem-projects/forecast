@@ -2,7 +2,7 @@
 layout: post
 title: Documenting a Process
 description: An attempt to answer questions posed by Klangräume project
-# modified: 2014-11-24 16:50:33 +0100
+modified: 2014-12-02 11:52:33 +0100
 author: sciss
 # category: []
 tags: []
@@ -102,7 +102,7 @@ We all know the famous quote by Saint-Exupéry: "Love does not consist of gazing
 together in the same direction." So I imagine that a person that values the work at least occasionally looks into the
 same, or approximately same direction as myself.
 
-But then experience is the process-form in natura. Experiences are becomings, and we have people to _make_ experiences.
+But then experience is the process-form in natura. Experiences are becomings, and we want people to _make_ experiences.
 So I think there are two components to this question. The first concerns the preconditions I consider relevant, the
 other the possibilities of change. As a precondition, I think you ought to be a sensitive person, and my experience is
 that this is a general condition independent of the type of sense (i.e. you need not be necessarily someone that is
@@ -117,7 +117,7 @@ modulating the space (whatever one understands by the term of modulation), this 
 
 I wish for visitors to explore the space, to walk around and understand that the sound they hear is equally
 produced by my composition and their movement in the space (not only in terms of activating sensors, but
-also purely in acoustical terms, and even further in terms of their focus of attenation, the cross-modulation
+also purely in acoustical terms, and even further in terms of their focus of attention, the cross-modulation
 by the light and space). I wish for people to connect to thoughts and fragments in their memory that they had
 forgotten about, to bring some to the surface and allow them to be transformed by the installation.
 
@@ -128,6 +128,56 @@ distinguishable, reproducing some form of spatial extension or texture in the mi
 sonification of a multi-channel data set would be an appropriate material to develop such a texture.
 
 ### Actuality
+
+While the structure of the piece was developed mainly in October, listening "offline" via a headphones simulation, 
+most sound layers were developed, at least in their raw shape, a week before the set-up in the TU workshop space
+"Halle", placing the speakers on chairs with distances scaled by a factor of about 2:3. Nevertheless, this proved
+to be still a sort of dry practice and did not produce any actual experience of the work. The experience began to
+shape during the set-up in the exhibition space. I was worried about the decision to place all speakers on the
+ceiling---the decision was made to simplify the structure for the composition as well as the physical installation,
+questions about audience movement etc. It turned out to be not problematic at all. I had used all-ceiling speakers
+in "Voice Trap", but in a smaller space and only with piezo disks. The speakers we used in "Turbulence" have a
+quite clear image, and having them obscured by the paper installation helped a lot to lessen the impression of
+sound coming from a punctiform source.
+
+The combination of paper and sound produces an interesting synaesthetic experience. Since the two came only
+together in this very moment, the effect was difficult to anticipate. For example, in the idle soundscape layer,
+"finding" a particular sound becomes intriguing, as you have to walk through the paper and your pathway is
+structured by the paper. In other words, the _mode_ in which one encounters one of these sounds is strongly
+influenced by the visual installation, and as a consequence bleeds into and transforms the experience of
+"just listening" to a particular sound. Without the visual installation, the sound locations would be much
+more neutral, and two sounds would just be next to each other, whereas with the paper network, the places
+of the speakers would be much more individualised, and the perceived spacing between neighbouring speakers
+became higher.
+
+In our artist talk with <&nbsp;Rotor&nbsp;>, I tried to understand this synaesthesia as an entanglement, based
+on the following formulation by Karin Barad ("Meeting the Universe Halfway," 2007):
+
+> To be entangled is not simply to be
+> intertwined with another, as in the joining of
+> separate entities, but to lack an independent,
+> self-contained existence.
+
+What I find interesting about this entanglement, is that we get to think about authorship, collaboration,
+identification, causation and complexity, to name a few. The experience you have within the work cannot
+be traced back to the sum of individual contributions (the sound, the paper, the sensors), but really
+emerges as something new. It is not the first time I understand the mechanism by which the "end-product"
+escapes a thorough pre-planning, as in fact this is the case with any installation, not only a collaborative
+one. I think what one can learn from this is that one is well advised to not be afraid to leave some
+decisions and constellations open till the moment of montage, to deliberately give up the idea that one
+should totally control the composition, that such total control is not possible and attempts at it might
+even be counter productive.
+
+Of course, one imagines how this coming together will play out. One of the layers uses recordings of
+falling leaves, a timbre I wanted to use as a reflection of the paper installation. The sounds are modulated
+in their density and using a formant, and due to technical limitations in treating each sound grain
+separate from the others, I was not fully convinced of this layer during the "Halle" period. But in the
+exhibition space that layer suddenly made much more sense, and I did not mind the artificiality of the
+applied filtering any longer, it simply did not matter.
+
+Even now that I am listening to sound recordings made in the exhibition, I cannot but reproduce the whole
+installation in my imaginations, i.e. the sounds are still entangled with the paper in my mind.
+
 
 (to-do)
 
