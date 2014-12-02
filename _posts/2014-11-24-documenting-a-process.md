@@ -243,6 +243,36 @@ How did you work? Did you follow a specific Methodology?
   including both artistic and technical aspects.
 -->
 
+The development of the sound composition is closely interlinked with its technological foundation which
+is shared with the overall SysSon project. Personally, I am interested in the interrelation between
+the composition in the narrow sense and its facilitation, so for me it is often difficult to draw a
+clear boundary between where one ends and the other starts.
+
+#### The SysSon Platform
+
+When I joined the SysSon project in January 2013, the installation was not present or relevant in the first place.
+The _SysSon_ software platform itself did not exist yet, and one of the initial assessments considered the pros
+and cons of using a specific technology, such as building entirely on _SuperCollider_ versus one of the
+modules I had been building, _ScalaCollider_. Only gradually it became clear to me that the most
+reasonable choice would be to incorporate larger portions of my software, especially after I had
+advanced _SoundProcesses_ and _Mellite_ (its graphical front-end) in spring 2013 during a stay at ZKM.
+
+In January 2013, _SysSon_ was a single document application, where a document corresponded with a NetCDF
+file. In February, I started an effort to create a visual patcher _SoundDesigner_, the idea of which
+was that apart from standard UGens, there would be sonification specific abstractions, and it would
+be possible to eventually design "sonifications" using this tool and not requiring text programming.
+Only a rough prototype of the _SoundDesigner_ was produced and it was abandoned as unrealistic
+given the time resources I had. Concurrently, a simple domain specific language was introduced to
+read and extract data from the NetCDF files. Simple patches could be written using a new matrix
+data type that would produce a sequence of data vectors over time, accessible through a regular
+UGen graph function. One could make selections within a "full" matrix (an entire data set),
+transpose the matrix to determine the temporal dimension, etc. Example sonifications were still
+developed by adding code snippets to the compiled project.
+
+As a result, the _SysSon_ platform became a sort of domain specific extension of SoundProcesses,
+providing access to the type of data that we worked with, providing also specific user interface
+elements and abstractions (the `Sonification` data type).
+
 (to-do)
 
 ## Context
