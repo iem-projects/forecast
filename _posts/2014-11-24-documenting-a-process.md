@@ -269,9 +269,41 @@ UGen graph function. One could make selections within a "full" matrix (an entire
 transpose the matrix to determine the temporal dimension, etc. Example sonifications were still
 developed by adding code snippets to the compiled project.
 
-As a result, the _SysSon_ platform became a sort of domain specific extension of SoundProcesses,
-providing access to the type of data that we worked with, providing also specific user interface
-elements and abstractions (the `Sonification` data type).
+The next step in the platform, apart from the extension with utility functions such as generating
+and caching data statistics, was the introduction of a `Library` component in September 2013. 
+The library would be some sort of data base that can be accessed from within a desktop application. 
+Questions regarding the user interface arose and about the storage of "state" edited by users.
+A distinction was made between a sonification model, described as text and edited and compiled
+separately and outside the desktop application, and its parametrisation provided through a graphical user
+interface with the possibility to associate data sets, select variables and ranges within the
+data matrices.
+
+As a consequence from the requirement to persist documents and the library, more and more elements
+that also form the basis of _SoundProcesses_ began to appear in _SysSon_. The reason why I was
+reluctant for a while to take the next step was that these components were still experimental,
+and also the usage of the dataflow system (_LucreEvent_) is much more difficult to understand
+than a DSL build on a plain old mutable class (no transactions, no type constructor parameters,
+etc.) But as _SysSon_ became more and more operated as a desktop application, where the sound
+programming was still done using simple UGen graph functions, this became a more viable option.
+Or put the other way around, it became more and more "expensive" in my opinion to deny oneself
+the use a lot of existing modules the functionality of which was really needed.
+
+In January 2014, the `Workspace` type was introduced, finally acknowledging the need to group
+multiple data sources together and collect them in one data base along with the sonification
+models. Now, step by step the _SysSon_ platform became a sort of domain specific extension of 
+_SoundProcesses_, providing access to the type of data that we worked with, providing also specific 
+user interface elements and abstractions (the `Sonification` data type). For example, the
+first instance which really relied on _SoundProcesses_, still used it in an "ephemeral" way:
+The sonification models were transcribed ad-hoc into the abstractions provided by _SoundProcesses_,
+while they were modelled independently and outside the _SoundProcesses_ API.
+
+In spring 2014, the platform begin to acknowledge its dependency on more and more user interface
+abstractions known from _Mellite_, for example in March it became possible to edit and compile
+the sound models directly from within the workspace and desktop application. And in June,
+finally the workspace model of _Mellite_ was adapted---or more correctly, both systems converged
+as several improvements in _Mellite_ in turn had been born in _SysSon_ (e.g., undo-redo).
+
+#### Sonification as a Question within Computer Music
 
 (to-do)
 
@@ -291,6 +323,10 @@ Provide us with a detailed technical description of the installation.
 -->
 
 (to-do)
+
+<figure>
+  <a href="/images/dependencies_simple.svg"><img src="/images/dependencies_simple.svg"></a>
+</figure>
 
 ## Evaluation
 
