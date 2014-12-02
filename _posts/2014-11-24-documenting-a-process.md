@@ -14,6 +14,17 @@ comments:
 share: 
 ---
 
+
+<section id="table-of-contents" class="toc">
+  <header>
+    <h3>Overview</h3>
+  </header>
+<div id="drawer" markdown="1">
+*  Auto generated table of contents
+{:toc}
+</div>
+</section><!-- /#table-of-contents -->
+
 The origin in the choice of Forum Stadtpark for the exhibition that was eventually titled "Turbulence" lay in another research project, "Klangräume" by Georgios Marentakis and David Pirrò. That project investigates the potentials and limitations of applying evaluation strategies normally found in design contexts to the production of sound art works. I am using this blog as a means to answer a number of questions posed by "Klangräume", documenting the process through which "Turbulence" came into being.
 
 ## Intention
@@ -93,7 +104,7 @@ Curiously, the questionaire only talks about the experience that _I wish "an ide
 more a question about expectation that about experience. I will nevertheless use "experience" as the headline and complete
 the expectation part with my own actual experience.
 
-### Expectation
+#### Expectation
 
 I do not hide the fact that my ideal visitor shares a significant amount of traits with myself; after all, I want to create
 a work that I am convinced of myself, that pleases my own aesthetical sense. Humans may have extremely different
@@ -127,7 +138,7 @@ decompose a complex object and be able to understand its components as present w
 distinguishable, reproducing some form of spatial extension or texture in the mind. I imagined that the
 sonification of a multi-channel data set would be an appropriate material to develop such a texture.
 
-### Actuality
+#### Actuality
 
 While the structure of the piece was developed mainly in October, listening "offline" via a headphones simulation, 
 most sound layers were developed, at least in their raw shape, a week before the set-up in the TU workshop space
@@ -178,8 +189,48 @@ applied filtering any longer, it simply did not matter.
 Even now that I am listening to sound recordings made in the exhibition, I cannot but reproduce the whole
 installation in my imaginations, i.e. the sounds are still entangled with the paper in my mind.
 
+Another thing that worried me was the subtle but constant pressure to "represent" in this project an
+"outcome" of our research on sonification and climate science. While I understand this constraint, I
+think it acted rather negatively on the development of the sound composition. On the other hand, it meant
+that I relocated by "freedom" within the meta-structure (the way sounds emerge, how they can appear
+next to each other, how they are selected). That this somehow worked became clear to me during the
+audio documentation of the project. Although I did an extensive recording session at the beginning
+of the exhibition, whenever I came back I felt I had not _properly_ documented the work, as I always
+found myself exposed to sound constellations that did not occur during that recording session and
+that I thought "better represented" the work.
 
-(to-do)
+It also became clear that the ideal exposure is when you are alone in the installation. Probably
+unconsciously, I have always imagined that the visitor will have the entire space for himself/herself.
+The work easily becomes unclear when several people are involved, particularly as they make sounds
+themselves, talk, etc. This requirement for quiescence is reflected by the notes of Laura Nefeli Chromecek
+who was part of the group of the visual artists. With respect to the exhibition's opening, she writes
+that
+
+> ... the number of people in the space increases the noise in the exhibition
+> space, abasing the sound of the installation to a secondary element.
+
+Under the heading of "Big, Artificial, Quiet" she writes: "This quiet, empty space, can be filled with 
+a single sound." And under the heading of "Alone, Sound, You":
+
+> The room is filled with paper and sound but still
+you are the only element to interrupt this weird balance between the
+abstract sound moving through the room and the floating particles.
+Even though the intrusion is minimalistic you are the only force able to
+change the space at will.
+
+So that sentiment seems to be shared by others as well.
+
+An interesting observation about the unfolding of time was made by one visitor. He described the
+potential of the sounds to generate two very different articulations of the space. In the artist talk
+I have labelled these two types as "all-over" and "localised". The former, embodied for example by
+the layer that produces grains with different overtones from radiation data, illuminates the whole
+space at once, whereas the latter, embodied for example by the layer based on temperature anomalies,
+traces the space, produces pathways and what in German is called a _Tiefenstaffelung_ (a gradation
+in depth). The striking result---and I share that experience with the visitor who made me aware of
+this---is that the perceived extent and in fact topography of the space changes very much with these
+two types of sounds. The "all-over" sounds make the space appear much smaller than the localised
+sounds that scan a variety of distances. The localised sounds seem to have a closer relationship
+with the paper installation.
 
 ## Development
 
