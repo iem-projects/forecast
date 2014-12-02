@@ -325,7 +325,7 @@ Provide us with a detailed technical description of the installation.
 (to-do)
 
 <figure>
-  <a href="/images/dependencies_simple.svg"><img src="/images/dependencies_simple.svg"></a>
+  <a href="{{ site.url }}/images/dependencies_simple.svg"><img src="{{ site.url }}/images/dependencies_simple.svg"></a>
 </figure>
 
 ## Evaluation
